@@ -1,5 +1,6 @@
 Online site demo:
 https://weusthem.sacalabob.com/site/
+
 Online site wordpress plugin:
 https://weusthem.sacalabob.com/we-us-them-demo/
 
@@ -71,6 +72,8 @@ curl --location 'https://weusthem.sacalabob.com/site/api/search_contact' \
 
 
 Source code: site.zip
+This is developed in PHP with CodeIgnitor framework
+The source code will be in folders: application/controllers, application/views, application/models
 Source code wordpress plugin: wordpres_plugin.zip
 sortcode [wut]
 database: wut1.sql
