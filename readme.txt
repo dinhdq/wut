@@ -74,6 +74,8 @@ curl --location 'https://weusthem.sacalabob.com/site/api/search_contact' \
 Source code: site.zip
 This is developed in PHP with CodeIgnitor framework
 The source code will be in folders: application/controllers, application/views, application/models
+The controller Api is source for the API
+ The controller Home is source for display site
 Source code wordpress plugin: wordpres_plugin.zip
 sortcode [wut]
 database: wut1.sql
